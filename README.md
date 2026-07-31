@@ -1,4 +1,4 @@
-# Discord Bot Manager
+ # Discord Bot Manager
 
 A simple desktop GUI to run your Discord bot, manage token, and load **Commands** + **Auto Moderators** from folders.
 
@@ -19,7 +19,7 @@ A simple desktop GUI to run your Discord bot, manage token, and load **Commands*
 ## Setup
 
 ```bash
-cd discord_bot_manager
+cd discord_bot_manager [the path adress]
 pip install -r requirements.txt
 python main.py
 ```
